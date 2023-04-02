@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+int main (){
+  int indice = 13, soma = 0, k = 0;
+
+	while( k < indice){
+		k = k + 1;
+		soma = soma + k;
+		printf("\n");
+		printf("     Laco = %d - Soma = %d", k,soma);
+}
+	printf("\n\n--------------------------------");
+	printf("\n\n     Resultado -> %d <-", soma);
+	printf("\n\n--------------------------------\n\n");
+	return 0;
+}
