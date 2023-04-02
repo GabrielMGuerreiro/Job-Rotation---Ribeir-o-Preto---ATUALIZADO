@@ -1,0 +1,37 @@
+A) A lógica é somar 2 ao número anterior. O próximo elemento é 9.
+
+b) A lógica é multiplicar o número anterior por 2. O próximo elemento é 128.
+
+c) A lógica é elevar o número por 2. O próximo elemento é 49.Os números na sequência são os quadrados dos números inteiros consecutivos, começando com 0.
+
+0² = 0
+1² = 1
+2² = 4
+3² = 9
+4² = 16
+5² = 25
+6² = 36
+
+O próximo número na sequência será 7² = 49.
+
+d) A lógica por trás dessa sequência é que cada número é o quadrado do número par correspondente.
+
+2 (2² = 4)
+4 (4² = 16)
+6 (6² = 36)
+8 (8² = 64)
+
+O próximo número seria o quadrado de 10, que é 10² = 100.
+
+e) A lógica é somar os dois números anteriores(Fibonacci). O próximo elemento é 13.
+
+f) Não pude identificar uma lógica óbvia, portanto, acredito que pode haver várias respostas possíveis. A minha conclusão foi :
+
+O primeiro número é 2.
+O segundo número é 10, que é 8 a mais do que o primeiro número.
+O terceiro número é 12, que é 2 a mais do que o segundo número.
+O quarto número é 16, que é 4 a mais do que o terceiro número.
+O quinto número é 17, que é 1 a mais do que o quarto número.
+O sexto número é 18, que é 1 a mais do que o quinto número.
+O sétimo número é 19, que é 1 a mais do que o sexto número.
+Portanto, seguindo essa lógica, o próximo número seria 20, que é 1 a mais do que o sétimo número.
