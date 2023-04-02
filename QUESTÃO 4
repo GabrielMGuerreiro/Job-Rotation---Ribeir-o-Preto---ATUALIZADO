@@ -1,0 +1,25 @@
+distância = velocidade x tempo
+
+Vamos primeiro calcular o tempo que cada veículo leva para chegar ao ponto de encontro.
+
+O carro tem uma velocidade constante de 110 km/h e precisa percorrer metade da distância entre as duas cidades (Ribeirão Preto e Franca), ou seja, 50 km, 
+para chegar ao ponto de encontro. Assim, o tempo que ele leva é:
+
+tempo = distância/velocidade = 50/110 = 0,45x60 = 27 minutos
+
+Já o caminhão tem uma velocidade constante de 80 km/h, mas leva 5 minutos a mais em cada um dos dois pedágios que existem no caminho. Portanto, o tempo que ele leva é:
+
+tempo = distância/velocidade + 2 x 5 minutos = 50/80 + 10/60 = 0,67 horas = 40 minutos e 12 segundos
+
+Agora que sabemos o tempo que cada veículo leva para chegar ao ponto de encontro, podemos calcular a distância que cada um está da cidade de Ribeirão Preto.
+
+O carro percorreu 50 km em 27 minutos a uma velocidade constante de 110 km/h. Assim, a distância dele da cidade de Ribeirão Preto é:
+
+distância do carro = velocidade x tempo = 110 x 0,45 = 49,5 km
+
+Já o caminhão percorreu 50 km em 40 minutos e 12 segundos a uma velocidade constante de 80 km/h. Assim, a distância dele da cidade de Ribeirão Preto é:
+
+distância do caminhão = velocidade x tempo = 80 x 0,67 = 53,6 km
+
+Portanto, quando os dois veículos se encontrarem, o carro estará mais próximo da cidade de Ribeirão Preto, a apenas 49,5 km de distância, enquanto o caminhão estará a 
+53,6 km de distância.
