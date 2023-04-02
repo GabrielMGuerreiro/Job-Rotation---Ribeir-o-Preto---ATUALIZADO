@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <locale.h>
+
+
+int main(){
+  setlocale(LC_ALL,"portuguese");
+  char palavra[999], pReverso[999];
+  int tam, x, y = 0;
+
+    printf("Digite uma palavra: ");
+    gets(palavra);
+    tam=strlen(palavra);
+
+  
+  for (x=(tam)-1;x>=0;x--){
+     pReverso[y] = palavra[x];
+     y++;
+  }
+  printf("\n________________________________________________________________"); 
+  printf("\n\nA palavra a qual foi digitada ao inverso fica: ");
+  printf("\n\n               ->    %s   <-                         ",pReverso);
+  printf("\n________________________________________________________________");
+  printf("\n\n\n");
+  
+  system("pause");
+  return 0;
+}
